@@ -1,0 +1,7 @@
+# Force consistent line endings for dataset files
+*.data  text eol=lf
+*.names text eol=lf
+Index   text eol=lf
+
+# Python scripts will always use LF
+*.py    text eol=lf
